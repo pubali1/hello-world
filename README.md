@@ -1,2 +1,7 @@
 # hello-world
-hi I am a new user
+#include<stdio.h>
+int main()
+{
+    printf("hello world");
+    return 0;
+}
